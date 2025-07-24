@@ -17,3 +17,8 @@ SLN003 – Mini Data Analyzer
 SLN004 - Object Oriented Zoo
 - Nesne yönelimli programlama (OOP) yapısını öğrenmek ve uygulamak amacıyla geliştirilmiş bir projedir. Bu proje kalıtım, polimorfizm ve interface gibi temel OOP konularıyla bir hayvanat bahçesi uygulamasıdır.
 - https://github.com/ranaozcn/object-oriented-zoo
+
+SLN005 – 2D Collect Coin
+- Unity ile geliştirilen 2D platform oyununda oyuncu harita üzerindeki elmasları toplamaya çalışır, düşerse oyun biter.
+- Oyun, temel oyun mekaniklerini (karakter hareketleri, skor sistemi, animasyonlar) içermektedir.
+- https://github.com/ranaozcn/2d-collcet-coin
