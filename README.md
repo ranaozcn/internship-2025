@@ -22,3 +22,9 @@ SLN005 – 2D Collect Coin
 - Unity ile geliştirilen 2D platform oyununda oyuncu harita üzerindeki elmasları toplamaya çalışır, düşerse oyun biter.
 - Oyun, temel oyun mekaniklerini (karakter hareketleri, skor sistemi, animasyonlar) içermektedir.
 - https://github.com/ranaozcn/2d-collcet-coin
+
+SLN006 - 2D Pixel Shooter
+- Unity ile geliştirilen bu 2D pixel tabanlı oyunda iki karakter karşılıklı savaşır. Oyun üç seviyeden oluşur ve her seviye giderek zorlaşır. Oyuncular düşmanları yok ettikçe bir sonraki seviyeye geçer.
+- Oyunda her karakterin can barı ve ateş etme mekaniği bulunumaktadır.
+- Save/Load sistemi sayesinde oyuncu oyunu kapatıp açtığında kaldığı yerden devam edebilir.
+- https://github.com/ranaozcn/2d-pixel-shooter
